@@ -1,4 +1,4 @@
-# Loan-Collection-Data-
+# Loan-Collection-Data Project
 Loan collection data refers to the complete set of records that track a borrower’s repayment behavior, outstanding dues, collection activities, and recovery outcomes for a given loan portfolio.
 # Project Title
 Loan Collection Data
